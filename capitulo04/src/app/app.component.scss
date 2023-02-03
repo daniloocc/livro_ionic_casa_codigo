@@ -1,0 +1,12 @@
+.active-item {
+    border-left: 8px solid var(--ion-color-primary);
+}
+
+.img-avatar {
+    width: 300px;
+    height: 150px;
+    object-fit: cover;
+    /* try 20% 10% */
+    object-position: 50% 50%;
+    // border: 5px solid black;
+}
